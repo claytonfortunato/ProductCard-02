@@ -2,7 +2,7 @@ import styled from "styled-components";
 
 export const Container = styled.div`
   color: #271a45;
-
+  margin: 14px;
   span {
     font-weight: 300;
     font-size: 0.625rem;

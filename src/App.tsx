@@ -1,4 +1,4 @@
-import ProductImg from "./components/ProductImg";
+import { ProductImg } from "./components/ProductImg";
 import ProductInfo from "./components/ProductInfo";
 import * as C from "./styles";
 
