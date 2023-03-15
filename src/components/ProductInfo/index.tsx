@@ -6,7 +6,7 @@ export default function ProductInfo() {
       <span>CÓDIGO: 42404</span>
       <h2>Sofá Margot II - Rosé</h2>
       <p>R$ 4.000 </p>
-      <button>Adicionar á Cesta</button>
+      <C.Button>Adicionar á Cesta</C.Button>
     </C.Container>
   );
 }
