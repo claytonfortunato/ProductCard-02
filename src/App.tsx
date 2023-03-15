@@ -1,8 +1,11 @@
+import ProductInfo from "./components/ProductInfo";
+import * as C from "./styles";
+
 function App() {
   return (
-    <div className="App">
-      <h1>Product Card</h1>
-    </div>
+    <C.Container>
+      <ProductInfo />
+    </C.Container>
   );
 }
 
